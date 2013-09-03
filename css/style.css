@@ -1,0 +1,28 @@
+#map {
+	height: 600px;
+	border-bottom: 20px solid black;
+	border-top: 20px solid black;
+}
+
+body {
+	background-color: #A9D0CB;
+	color: #000;
+	font-family: 'PT Mono', serif;
+}
+
+
+h1 {
+	font-family: Helvetica, sans-serif;
+	line-height: 12px;
+}
+
+h2 {
+	font-family: 'PT Mono', serif;
+	font-size: 14px;
+}
+
+.text {
+	font-family: Helvetica, sans-serif;
+	font-size: 12px;
+	float: right;
+}
